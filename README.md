@@ -9,6 +9,7 @@ This is a repository for organizing papers, codes and other resources related to
 
 + [UniGame: Turning a Unified Multimodal Model Into Its Own Adversary](https://arxiv.org/abs/2511.19413) (Nov. 2025, arXiv) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19413) [![Star](https://img.shields.io/github/stars/AIFrontierLab/UniGame.svg?style=social&label=Star)](https://github.com/AIFrontierLab/UniGame)
 
++ [UniRL-Zero: Reinforcement Learning on Unified Models with Joint Language Model and Diffusion Model Experts](https://arxiv.org/abs/2510.17937v1) (Oct. 2025, arXiv) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.17937v1) [![Star](https://img.shields.io/github/stars/G-U-N/UniRL.svg?style=social&label=Star)](https://github.com/G-U-N/UniRL) 
 
 + [SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models](https://arxiv.org/abs/2510.12784) (Oct. 2025, arXiv) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.12784) [![Star](https://img.shields.io/github/stars/WayneJin0918/SRUM.svg?style=social&label=Star)](https://github.com/WayneJin0918/SRUM) 
 
@@ -23,3 +24,7 @@ This is a repository for organizing papers, codes and other resources related to
 
 
 + [UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.23380v1) (May. 2025, arXiv) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23380v1) [![Star](https://img.shields.io/github/stars/showlab/UniRL.svg?style=social&label=Star)](https://github.com/showlab/UniRL) 
+
++ [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.17534) (May. 2025, NeurIPS 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.17534) [![Star](https://img.shields.io/github/stars/mm-vl/ULM-R1.svg?style=social&label=Star)](https://github.com/mm-vl/ULM-R1)
+
++ [Unified Reward Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2503.05236) (May. 2025, NeurIPS 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05236) [![Star](https://img.shields.io/github/stars/CodeGoat24/UnifiedReward.svg?style=social&label=Star)](https://github.com/CodeGoat24/UnifiedReward)
